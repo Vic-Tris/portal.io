@@ -282,6 +282,7 @@ text-align: center;
         border-top-left-radius: 0;
         border-top-right-radius: 0;
         display: none;
+        z-index:2;
        
     }
     header nav ul{
@@ -388,3 +389,4 @@ text-align: center;
     }
 } */
 /* media query mobile version */
+
